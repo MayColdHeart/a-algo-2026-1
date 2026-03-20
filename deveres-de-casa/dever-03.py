@@ -1,9 +1,6 @@
-
-
 # Implemente o código recursivo para verificar se um array é palíndromo.
 
 # Ex:
-
 # array1 = [0, 1, 2, 3, 2, 1, 0] -> É palíndromo
 # array2 = ["a", "b", "b", "a"] -> É palíndromo
 # array3 = ["a", "b", "c", "b", "a"] -> É palíndromo

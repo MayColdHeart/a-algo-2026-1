@@ -5,12 +5,12 @@
 
 # Instruções:
 
-# - Escreva um programa em Python que:
-# - Leia um número inteiro n.
-# - Calcule o fatorial de n recursivamente.
-# - Inclua comentários explicando cada parte do código.
-# - Meça o tempo de execução do algoritmo para diferentes valores de n: 10, 100, 500, e 1000.
-# - Submeta o código com os resultados do tempo de execução e uma breve explicação da análise de complexidade.
+# Escreva um programa em Python que:
+# Leia um número inteiro n.
+# Calcule o fatorial de n recursivamente.
+# Inclua comentários explicando cada parte do código.
+# Meça o tempo de execução do algoritmo para diferentes valores de n: 10, 100, 500, e 1000.
+# Submeta o código com os resultados do tempo de execução e uma breve explicação da análise de complexidade.
 
 
 
