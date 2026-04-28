@@ -40,7 +40,7 @@
         - ordenação por intercalação (mergesort)
     
     - Listas ligadas
-    - arvores binarias
+    - Arvores binarias
     - Heaps e filas de prioridades.
     - Programação dinâmica: o problema do custo de edição mínimo.
     - Grafos: busca por largura e profundidade;
